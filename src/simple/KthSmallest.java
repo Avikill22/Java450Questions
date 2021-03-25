@@ -16,7 +16,7 @@ public class KthSmallest {
 		}
 		int k = sc.nextInt();
 		int ksmallest = primitiveMethod(arr,k);
-		int ksmallest = maxHeap(arr,k);
+		
 
 	}
 
